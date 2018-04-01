@@ -43,3 +43,10 @@ Adding interactivity to the plot.
 Plot: clickable barplot that is redrawn depending on the mouseclick-indicated threshold, based on the level of confidence.
 <br/><br/>
 ![barplots](https://user-images.githubusercontent.com/23619663/38137470-0da75238-3425-11e8-8575-368143ce5b13.gif)
+
+### Assignment 4
+Becoming an Independent Data Scientist
+<br/><br/>
+Plot: Sports trends in Poland in 2002-2016
+<br/><br/>
+![sports_activity_in_poland](https://user-images.githubusercontent.com/23619663/38177324-be3df940-35ff-11e8-90de-057bb4ee93f8.gif)
